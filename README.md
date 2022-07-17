@@ -5,10 +5,11 @@
 - Chinese / 19 y.o. / College Student
 - zh-CN / en-US / ja-JP(Studying)
 - Programmer / Developer / Coder / Software Engineer
+- Love and thirst for freedom and peace 🕊️
 
 💖 Let's give it a shot! Go on and catch the dream!
 
-## 🌱 Programming Languages
+## 🌱 Programming Languages & Skills
 
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff)
