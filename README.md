@@ -27,8 +27,8 @@
 ![Windows 11 Pro Workstation](https://img.shields.io/badge/Windows%2011%20Pro%20Workstation-00adef?style=flat-square&logo=windows&logoColor=ffffff)
 ![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu%2022.04-dd4814?style=flat-square&logo=ubuntu&logoColor=ffffff)
 ![MacOS12](https://img.shields.io/badge/MacOS%2012-000000?style=flat-square&logo=apple&logoColor=ffffff)
-![iOS 15.6](https://img.shields.io/badge/iOS%2015.6-000000?style=flat-square&logo=apple&logoColor=ffffff)
-![iPadOS 15.6](https://img.shields.io/badge/iPadOS%2015.6-000000?style=flat-square&logo=apple&logoColor=ffffff)
+![iOS 16](https://img.shields.io/badge/iOS%2016-000000?style=flat-square&logo=apple&logoColor=ffffff)
+![iPadOS 16](https://img.shields.io/badge/iPadOS%2016-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![Android 10](https://img.shields.io/badge/Android%2010-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
 
 ## 🔒 Public Keys
