@@ -30,3 +30,19 @@
 ![iOS 15.6](https://img.shields.io/badge/iOS%2015.6-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![iPadOS 15.6](https://img.shields.io/badge/iPadOS%2015.6-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![Android 10](https://img.shields.io/badge/Android%2010-3ddc84?style=flat-square&logo=android&logoColor=ffffff)
+
+## 🔒 Public Keys
+
+```
+Fingerprint = 8619 EC60 D50A 90C3 E6D0  C9E2 FD65 72C4 674B D5FA
+```
+
+## GPG Public Key (ECC ED25519)
+
+[GitHub](https://github.com/hash070.gpg)
+
+[OpenGPG](https://keys.openpgp.org/vks/v1/by-fingerprint/8619EC60D50A90C3E6D0C9E2FD6572C4674BD5FA)
+
+## SSH Public Key (ECC ED25519 | RSA 4096)
+
+[GitHub](https://github.com/hash070.keys)
