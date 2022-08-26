@@ -34,6 +34,7 @@
 ## 🔒 Public Keys
 
 ```
+Key ID = FD6572C4674BD5FA
 Fingerprint = 8619 EC60 D50A 90C3 E6D0  C9E2 FD65 72C4 674B D5FA
 ```
 
