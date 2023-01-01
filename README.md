@@ -2,9 +2,9 @@
 
 ### Hi there 👋 , this is hash070
 
-- Chinese / 19 y.o. / College Student
+- Chinese 20 y.o. / College Student
 - zh-CN / en-US / ja-JP(Studying)
-- Software Engineer/Android/Frontend/Backend Developer
+- Software Engineer/Ops/Android/Frontend/Backend Developer
 - Aspiring to be a full-stack developer
 - Love and thirst for freedom and peace 🕊️
 
@@ -32,7 +32,7 @@
 ![iOS 16](https://img.shields.io/badge/iOS%2016-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![iPadOS 16](https://img.shields.io/badge/iPadOS%2016-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![WatchOS 9](https://img.shields.io/badge/WatchOS%209-000000?style=flat-square&logo=apple&logoColor=ffffff)
-![Android 10](https://img.shields.io/badge/Android%2010-073042?style=flat-square&logo=android&logoColor=3ddc84)
+![Android 13](https://img.shields.io/badge/Android%2013-073042?style=flat-square&logo=android&logoColor=3ddc84)
 
 ## 🔒 Public Keys
 
